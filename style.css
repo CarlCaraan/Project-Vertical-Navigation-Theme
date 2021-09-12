@@ -36,6 +36,10 @@ h2 {
   margin: 3rem 0;
   border-bottom: 1px dashed #131313;
 }
+#content.active {
+  width: 100%;
+  margin: 0;
+}
 
 /*============= NAVIGATION =============*/
 
@@ -60,10 +64,6 @@ h2 {
 }
 #sidebar.active {
   margin-left: -17rem;
-}
-#content.active {
-  width: 100%;
-  margin: 0;
 }
 .text-uppercase {
   letter-spacing: 0.1em;
