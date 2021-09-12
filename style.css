@@ -62,14 +62,14 @@ h2 {
 .text-primary{
     color:#7579e7 !important;
 }
-#sidebar.active {
-  margin-left: -17rem;
-}
 .text-uppercase {
   letter-spacing: 0.1em;
 }
 .text-gray {
   color: #aaa;
+}
+#sidebar.active {
+  margin-left: -17rem;
 }
 
 
