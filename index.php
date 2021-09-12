@@ -85,7 +85,10 @@
 <div class="page-content p-5" id="content">
 
     <!-- Toggle button -->
-    <button id="sidebarCollapse" type="button" class="btn btn-light bg-white rounded-pill shadow-sm px-4 mb-4"><i class="fa fa-bars mr-2"></i><small class="text-uppercase font-weight-bold">Toggle</small></button>
+    <button id="sidebarCollapse" type="button" class="btn btn-light bg-white rounded-pill shadow-sm px-4 mb-4">
+        <i class="fa fa-bars mr-2"></i>
+        <small class="text-uppercase font-weight-bold">Toggle</small>
+    </button>
 
     <h2 class="display-4">Bootstrap vertical nav</h2>
     <p class="lead mb-0">Build a fixed sidebar using Bootstrap 4 vertical navigation and media objects.</p>
